@@ -10,6 +10,7 @@ This repository contains a minimal Lambda handler implemented with RxJS (bundled
 - `run-lambda.mjs` — Test harness that imports `handler` and asserts the response; also prints details and execution time.
 - `rxjs.umd.min.js` — Local UMD build of RxJS used by `index.mjs`.
 - `package.json` — Project manifest. `npm test` runs the test harness.
+- `LICENSE` — MIT license for this repository.
 
 ## Requirements
 
@@ -45,3 +46,15 @@ Example response body (partial):
   ]
 }
 ```
+
+## Author
+
+- Ali Almahdi — https://www.ali.ac
+
+## Training note
+
+This repository is used as part of the training provided by Ali Almahdi. The code and examples are included for teaching and demonstration purposes to students.
+
+## Contributions
+
+No contributions will be accepted for this repository. The content is maintained for training and reference only.
